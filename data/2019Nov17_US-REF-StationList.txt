@@ -1,0 +1,122 @@
+VNET	NET	STA	SITE DESCRIPTION	LAT	LON	ELEV	START	END	STATUS	INSTALL	CERT
+_US-REF	AK	BMR	Bremner River, AK, USA	60.97	-144.61	842.0	2004/01/01	2599/12/31	Operating		
+_US-REF	AK	TNA	Tin City, AK, USA	65.56	-167.93	74.0	2004/01/01	2599/12/31	Operating		
+_US-REF	AT	PMR	Palmer, Alaska	61.59	-149.13	100.0	2004/01/01	2599/12/31	Operating		
+_US-REF	AT	SDPT	Sand Point, Alaska	55.35	-160.48	74.0	2004/01/01	2599/12/31	Operating		
+_US-REF	AT	SMY	Shemya, Alaska	52.73	174.10	58.0	2004/01/01	2599/12/31	Operating		
+_US-REF	BK	CMB	Columbia College, Columbia, CA, USA	38.03	-120.39	697.0	2004/01/01	2599/12/31	Operating		
+_US-REF	BK	HUMO	Hull Mountain, OR, USA	42.61	-122.96	554.9	2004/01/01	2599/12/31	Operating		
+_US-REF	BK	MCCM	Marconi Conference Center, Marshall, CA, USA	38.14	-122.88	-7.7	2006/02/03	2599/12/31	Operating		
+_US-REF	BK	SAO	San Andreas Geophysical Obs., Hollister, CA, USA	36.76	-121.45	317.2	2004/01/01	2599/12/31	Operating		
+_US-REF	BK	WDC	Whiskeytown Dam, Whiskeytown, CA, USA	40.58	-122.54	268.3	2004/01/01	2599/12/31	Operating		
+_US-REF	CI	GMR	Granite Mountains Research Center	34.78	-115.66	1326.0	2006/04/04	2599/12/31	Operating		
+_US-REF	CI	ISA	Isabella	35.66	-118.47	873.0	2004/01/01	2599/12/31	Operating		
+_US-REF	CI	PASC	Art Center College of Design (GSN-affiliate)	34.17	-118.19	341.0	2006/10/05	2599/12/31	Operating		
+_US-REF	ET	SWET	Sewanee,TN	35.22	-85.93	581.0	2004/01/01	2599/12/31	Operating		
+_US-REF	II	KDAK	Kodiak Island, Alaska, USA	57.78	-152.58	152.0	2004/01/01	2599/12/31	Operating		
+_US-REF	II	PFO	Pinon Flat, California, USA	33.61	-116.46	1280.0	2004/01/01	2006/07/12	Ended		
+_US-REF	II	PFO	Pinon Flat, California, USA	33.61	-116.46	1280.0	2006/07/13	2599/12/31	Operating		
+_US-REF	IM	ATTU	Attu Island, AK, USA	52.88	173.16	250.0	2004/01/01	2006/06/20	Ended		
+_US-REF	IM	ATTUB	Attu Island, AK, USA	52.88	173.16	250.0	2006/06/20	2010/04/01	Ended		
+_US-REF	IM	NV31	NVAR Array Site 31, Mina, NV, USA	38.43	-118.16	1509.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IM	PD31	PDAR Array, Pinedale, WY, USA	42.77	-109.56	2219.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IM	TX31	TXAR Array, Lajitas, TX, USA	29.33	-103.67	991.4	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	ADK	Adak, Aleutian Islands, Alaska	51.88	-176.68	130.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	ANMO	Albuquerque, New Mexico, USA	34.95	-106.46	1820.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	CCM	Cathedral Cave, Missouri, USA	38.06	-91.24	222.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	COLA	College Outpost, Alaska, USA	64.87	-147.86	200.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	COR	Corvallis, Oregon, USA	44.59	-123.30	110.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	DWPF	Disney Wilderness Preserve, Florida, USA	28.11	-81.43	30.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	HKT	Hockley, Texas	29.96	-95.84	-413.0	2004/01/01	2018/01/26	Ended		
+_US-REF	IU	HKT	Hockley, Texas	29.96	-95.84	69.0	2018/01/26	2599/12/31	Operating		
+_US-REF	IU	HRV	Adam Dziewonski Observatory (Oak Ridge), Massachusetts, USA	42.51	-71.56	200.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	RSSD	Black Hills, South Dakota, USA	44.12	-104.04	2090.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	SSPA	Standing Stone, Pennsylvania	40.64	-77.89	270.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	TUC	Tucson, Arizona	32.31	-110.78	910.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	WCI	Wyandotte Cave, Indiana, USA	38.23	-86.29	210.0	2004/01/01	2599/12/31	Operating		
+_US-REF	IU	WVT	Waverly, Tennessee, USA	36.13	-87.83	170.0	2004/01/01	2599/12/31	Operating		
+_US-REF	LB	BMN	Battle Mountain, Nevada, USA	40.43	-117.22	1594.0	2004/01/01	2599/12/31	Operating		
+_US-REF	LD	PAL	Palisades, New York	41.01	-73.91	66.0	2004/01/01	2599/12/31	Operating		
+_US-REF	NN	WCN	Washoe City, Nevada w84gm	39.31	-119.76	1658.0	2004/01/01	2010/05/02	Ended		
+_US-REF	TA	121A	Cookes Peak, Deming, NM, USA	32.53	-107.79	1652.0	2008/02/12	2019/03/08	Ended		
+_US-REF	TA	214A	Organ Pipe National Monument, Ajo, AZ, USA	31.96	-112.81	543.0	2007/05/07	2018/09/07	Ended		
+_US-REF	TA	ABTX	Abilene, Hawley, TX, USA	32.62	-99.64	502.0	2009/02/12	2018/08/15	Ended		
+_US-REF	TA	BGNE	Belgrade, NE, USA	41.41	-98.15	573.0	2008/10/18	2018/08/15	Ended		
+_US-REF	TA	BRSD	Miller, SD, USA	44.44	-98.96	519.0	2008/10/05	2010/06/13	Ended		
+_US-REF	TA	H17A	Grant Village (NPS), Yellowstone Nt. Park, WY, USA	44.40	-110.58	2400.0	2007/10/03	2018/09/04	Ended		
+_US-REF	TA	K22A	Casper, WY, USA	42.65	-106.52	1686.0	2008/07/15	2018/08/15	Ended		
+_US-REF	TA	KMSC	Kings Mountain, Blacksburg, SC, USA	35.14	-81.33	240.0	2008/10/13	2018/08/15	Ended		
+_US-REF	TA	KSCO	Kaye Shedlock&#x27;s, Cheyenne Wells, CO, USA	39.01	-102.63	1382.0	2008/12/03	2018/08/15	Ended		
+_US-REF	TA	MDND	Maddock, ND, USA	47.85	-99.60	479.0	2008/10/04	2018/08/15	Ended		
+_US-REF	TA	MSTX	Muleshoe, TX, USA	33.97	-102.77	1167.0	2008/04/23	2018/08/15	Ended		
+_US-REF	TA	O20A	White River City, CO, USA	40.13	-108.24	1915.0	2007/11/12	2018/08/15	Ended		
+_US-REF	TA	R11A	Troy Canyon, Currant, NV, USA	38.35	-115.59	1756.0	2007/02/09	2017/03/16	Ended		
+_US-REF	TA	R58B	Mineral, VA, USA	37.96	-77.88	116.0	2012/08/02	2015/04/28	Ended		
+_US-REF	TA	SFIN	Lafayette, IN, USA	40.38	-87.10	165.0	2008/10/09	2018/08/15	Ended		
+_US-REF	TA	SPMN	Marine on St. Croix, MN, USA	45.22	-92.80	311.0	2008/10/07	2018/08/15	Ended		
+_US-REF	TA	SUSD	Miller, SD, USA	44.44	-98.96	520.0	2010/08/24	2018/08/15	Ended		
+_US-REF	TA	TIGA	Tifton, GA, USA	31.44	-83.59	109.0	2009/03/16	2018/08/15	Ended		
+_US-REF	TA	TUL1	Leonard, OK, USA	35.91	-95.79	256.0	2008/10/16	2017/04/25	Ended		
+_US-REF	TA	W18A	Petrified Forest, AZ, USA	35.12	-109.74	1750.0	2007/05/01	2018/09/07	Ended		
+_US-REF	TA	WHTX	Lake Whitney, Meridian, TX, USA	31.99	-97.46	190.0	2009/02/11	2018/08/15	Ended		
+_US-REF	UO	PIN	Pine Mt., OR, USA (U0 BB CREST SMO)	43.81	-120.87	1865.0	2004/01/01	2010/09/26	Ended		
+_US-REF	UO	PINE	Pine Mountain, OR, USA	43.79	-120.94	1914.0	2010/09/27	2599/12/31	Operating		
+_US-REF	US	AAM	Ann Arbor, Michigan, USA	42.30	-83.66	172.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	ACSO	Alum Creek State Park, Ohio, USA	40.23	-82.98	288.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	AGMN	Agassiz National Wildlife Refuge, Minnesota, USA	48.30	-95.86	351.0	2006/08/12	2599/12/31	Operating		
+_US-REF	US	AMTX	Amarillo, Texas, USA	34.88	-101.68	1010.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	BINY	Binghamton, New York, USA	42.20	-75.99	498.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	BLA	Blacksburg, Virginia, USA	37.21	-80.42	634.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	BMO	Blue Mountains Array (Baker), Oregon, USA	44.85	-117.31	1154.0	2004/11/23	2599/12/31	Operating		
+_US-REF	US	BOZ	Bozeman, Montana, USA	45.60	-111.63	1589.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	BRAL	Brewton, Alabama, USA	31.17	-87.05	61.0	2006/06/15	2599/12/31	Operating		
+_US-REF	US	BW06	Boulder Array Site 6 (Pinedale Array Site 6), Wyoming, USA	42.77	-109.56	2224.0	2007/01/01	2599/12/31	Operating		
+_US-REF	US	CBKS	Cedar Bluff, Kansas, USA	38.81	-99.74	677.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	CBN	Corbin (Fredericksburg Observatory), Virginia, USA	38.20	-77.37	70.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	CNNC	Cliffs of the Neuse, North Carolina, USA	35.24	-77.89	29.0	2006/06/25	2018/09/25	Ended		
+_US-REF	US	COWI	Conover, Wisconsin, USA	46.10	-89.14	523.3	2006/09/25	2019/09/14	Ended		
+_US-REF	US	DGMT	Dagmar, Montana, USA	48.47	-104.20	646.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	DUG	Dugway, Tooele County, Utah, USA	40.20	-112.81	1477.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	ECSD	EROS Data Center, Sioux Falls, South Dakota, USA	43.73	-96.61	478.0	2006/05/17	2599/12/31	Operating		
+_US-REF	US	EGAK	Eagle, Central Alaska, Alaska, USA	64.78	-141.16	296.6	2006/08/18	2599/12/31	Operating		
+_US-REF	US	EGMT	Eagleton, Montana, USA	48.02	-109.75	1055.0	2005/10/01	2599/12/31	Operating		
+_US-REF	US	ERPA	Erie, Pennsylvania, USA	42.12	-79.99	306.3	2004/03/19	2599/12/31	Operating		
+_US-REF	US	EYMN	Ely, Minnesota, USA	47.95	-91.50	475.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	GLMI	Grayling, Michigan, USA	44.82	-84.62	387.0	2006/08/10	2599/12/31	Operating		
+_US-REF	US	GOGA	Godfrey, Georgia, USA	33.41	-83.47	116.5	2004/01/01	2599/12/31	Operating		
+_US-REF	US	HAWA	Hanford, Washington, USA	46.39	-119.53	364.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	HDIL	Hopedale, Illinois, USA	40.56	-89.29	219.4	2006/08/24	2599/12/31	Operating		
+_US-REF	US	HLID	Hailey, Idaho, USA	43.56	-114.41	1772.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	ISCO	Idaho Springs, Colorado, USA	39.80	-105.61	2743.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	JCT	Junction, Texas, USA	30.48	-99.80	591.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	JFWS	Near Bowden and Sunny Slope Rds, Wisconsin, USA	42.91	-90.25	335.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	KSU1	Kansas State University--Konza Prairie, Kansas, USA	39.10	-96.61	317.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	KVTX	Kingsville, Texas, USA	27.55	-97.89	14.6	2006/06/16	2599/12/31	Operating		
+_US-REF	US	LAO	LASA Array, Montana, USA	46.69	-106.22	902.0	2004/07/13	2599/12/31	Operating		
+_US-REF	US	LBNH	Lisbon, New Hampshire, USA	44.24	-71.93	367.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	LONY	Lake Ozonia, New York, USA	44.62	-74.58	440.0	2005/10/06	2599/12/31	Operating		
+_US-REF	US	LRAL	Lakeview Retreat, Alabama, USA	33.04	-87.00	130.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	MCWV	Mont Chateau, West Virginia, USA	39.66	-79.85	280.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	MIAR	Mount Ida, Arkansas, USA	34.55	-93.58	207.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	MNTX	Cornudas Mountains, Texas, USA	31.70	-105.38	404.8	2004/01/01	2599/12/31	Operating		
+_US-REF	US	MSO	Missoula, Montana, USA	46.83	-113.94	1264.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	MVCO	Mesa Verde, Colorado, USA	37.20	-108.49	2169.9	2006/04/18	2599/12/31	Operating		
+_US-REF	US	NATX	Nacogdoches, Texas, USA	31.76	-94.66	168.0	2004/05/12	2599/12/31	Operating		
+_US-REF	US	NEW	Newport, Washington, USA	48.26	-117.12	760.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	NHSC	New Hope, South Carolina, USA	33.11	-80.18	11.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	NLWA	Neilton Lookout, Washington, USA	47.39	-123.87	640.0	2006/07/05	2599/12/31	Operating		
+_US-REF	US	OGNE	Ogallala, Nebraska, USA	40.95	-102.03	1054.0	2007/06/28	2599/12/31	Operating		
+_US-REF	US	OXF	Oxford, Mississippi, USA	34.51	-89.41	101.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	PKME	Peaks-Kenny State Park, Maine, USA	45.26	-69.29	108.5	2006/07/02	2599/12/31	Operating		
+_US-REF	US	RLMT	Red Lodge, Montana, USA	45.12	-109.27	2086.0	2006/08/24	2599/12/31	Operating		
+_US-REF	US	SCIA	State Center, Iowa, USA	41.91	-93.22	311.5	2006/06/01	2599/12/31	Operating		
+_US-REF	US	SDCO	Great Sand Dunes National Park, Colorado, USA	37.75	-105.50	2569.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	TPNV	Topopah Spring, Nevada, USA	36.95	-116.25	1600.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	TZTN	Tazewell, Tennessee, USA	36.54	-83.55	394.0	2005/02/23	2599/12/31	Operating		
+_US-REF	US	VBMS	Vicksburg, Mississippi	32.22	-90.52	16.0	2007/04/13	2599/12/31	Operating		
+_US-REF	US	WMOK	Wichita Mountains, Oklahoma, USA	34.74	-98.78	486.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	WRAK	Wrangell Island, Southeastern Alaska, Alaska, USA	56.42	-132.35	80.9	2006/08/27	2599/12/31	Operating		
+_US-REF	US	WUAZ	Wupatki, Arizona, USA	35.52	-111.37	1592.0	2004/01/01	2599/12/31	Operating		
+_US-REF	US	WVOR	Wild Horse Valley, Oregon, USA	42.43	-118.64	1344.0	2004/01/01	2599/12/31	Operating		
+_US-REF	UU	CCUT	Cedar City, UT, USA	37.55	-113.36	2127.0	2006/01/09	2599/12/31	Operating		
+_US-REF	UU	SRU	San Rafael Swell, UT, USA	39.11	-110.52	1804.0	2004/01/01	2599/12/31	Operating		
